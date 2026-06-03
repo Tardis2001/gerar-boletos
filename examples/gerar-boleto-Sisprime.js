@@ -47,6 +47,7 @@ const boleto = {
       processamento: '04/02/2025',
       documentos: '04/02/2025',
     },
+    localDePagamento: 'Pagável em qualquer instituição financeira',
   },
 };
 

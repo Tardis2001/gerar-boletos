@@ -30,6 +30,7 @@ Biblioteca completa e robusta para geração de boletos bancários em formato PD
 | 🟡 Sicredi                 | 748    | ✅ Suportado |
 | 🔴 Santander               | 033    | ✅ Suportado |
 | 🟣 Ailos (Cecred)          | 085    | ✅ Suportado |
+| ⚪ Sisprime                | 084    | ✅ Suportado |
 
 ## 🚀 Instalação
 
