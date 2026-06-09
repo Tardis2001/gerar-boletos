@@ -22,7 +22,7 @@ const boleto = {
     nome: 'SISPRIME DO BRASIL - COOPERATIVA DE CREDITO',
     cnpj: '002398976000190',
     dadosBancarios: {
-      carteira: '009',
+      carteira: '09',
       agencia: '0001',
       agenciaDigito: '9',
       conta: '0079502',
